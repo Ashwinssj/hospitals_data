@@ -1,0 +1,58 @@
+[
+  {
+    "id": "DOC-001",
+    "name": "Dr. Anjali Rao",
+    "specializationId": "CARD-001",
+    "branchId": "MUM-01",
+    "availability": "Mon, Wed, Fri - 10:00 AM to 1:00 PM"
+  },
+  {
+    "id": "DOC-002",
+    "name": "Dr. Vikram Singh",
+    "specializationId": "ORTH-001",
+    "branchId": "MUM-01",
+    "availability": "Tue, Thu - 2:00 PM to 5:00 PM"
+  },
+  {
+    "id": "DOC-003",
+    "name": "Dr. Priya Sharma",
+    "specializationId": "GP-001",
+    "branchId": "MUM-02",
+    "availability": "Mon to Sat - 9:00 AM to 6:00 PM"
+  },
+  {
+    "id": "DOC-004",
+    "name": "Dr. Rohan Gupta",
+    "specializationId": "PED-002",
+    "branchId": "MUM-02",
+    "availability": "Mon, Wed - 11:00 AM to 2:00 PM"
+  },
+  {
+    "id": "DOC-005",
+    "name": "Dr. Sanjay Verma",
+    "specializationId": "CARD-001",
+    "branchId": "DEL-01",
+    "availability": "Tue, Thu, Sat - 9:00 AM to 12:00 PM"
+  },
+  {
+    "id": "DOC-006",
+    "name": "Dr. Meera Krishnan",
+    "specializationId": "ORTH-001",
+    "branchId": "BLR-01",
+    "availability": "Mon, Fri - 3:00 PM to 6:00 PM"
+  },
+  {
+    "id": "DOC-007",
+    "name": "Dr. Arjun Reddy",
+    "specializationId": "ONCO-001",
+    "branchId": "BLR-02",
+    "availability": "By Appointment"
+  },
+  {
+    "id": "DOC-008",
+    "name": "Dr. Aisha Khan",
+    "specializationId": "DERM-004",
+    "branchId": "BLR-01",
+    "availability": "Wed, Fri - 10:00 AM to 1:00 PM"
+  }
+]
