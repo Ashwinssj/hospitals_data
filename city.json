@@ -1,0 +1,52 @@
+[
+  {
+    "city": "Mumbai",
+    "branches": [
+      {
+        "branchId": "MUM-01",
+        "branchName": "Apollo Spectra Hospital - Tardeo",
+        "address": "156, Tardeo Road, Mumbai, Maharashtra 400034",
+        "contact": "+91 22 6154 5454",
+        "specializationIds": [ "CARD-001", "ORTH-001", "NEUR-001", "ONCO-001" ]
+      },
+      {
+        "branchId": "MUM-02",
+        "branchName": "Fortis Hospital - Mulund",
+        "address": "Mulund Goregaon Link Rd, Mulund West, Mumbai, Maharashtra 400078",
+        "contact": "+91 22 4111 4111",
+        "specializationIds": [ "PED-002", "GAST-002", "UROL-002", "GP-001" ]
+      }
+    ]
+  },
+  {
+    "city": "Delhi",
+    "branches": [
+      {
+        "branchId": "DEL-01",
+        "branchName": "Max Healthcare - Saket",
+        "address": "1, 2, Press Enclave Marg, Saket, New Delhi, Delhi 110017",
+        "contact": "+91 11 2651 5050",
+        "specializationIds": [ "CARD-001", "NEPH-003", "PULM-003" ]
+      }
+    ]
+  },
+  {
+    "city": "Bengaluru",
+    "branches": [
+      {
+        "branchId": "BLR-01",
+        "branchName": "Manipal Hospital - Old Airport Road",
+        "address": "98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+        "contact": "+91 80 2502 5500",
+        "specializationIds": [ "ORTH-001", "DERM-004", "ENDO-004" ]
+      },
+      {
+        "branchId": "BLR-02",
+        "branchName": "Narayana Health City",
+        "address": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+        "contact": "+91 80 7122 2222",
+        "specializationIds": [ "CARD-001", "ONCO-001", "TRAN-005" ]
+      }
+    ]
+  }
+]
