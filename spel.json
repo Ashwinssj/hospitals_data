@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [
   {
     "id": "CARD-001",
@@ -65,72 +64,4 @@
     "name": "General Physician",
     "description": "Provides primary care, diagnosing and treating a wide range of common illnesses and conditions."
   }
-=======
-[
-  {
-    "id": "CARD-001",
-    "name": "Cardiology",
-    "description": "Deals with disorders of the heart including coronary artery disease and heart failure."
-  },
-  {
-    "id": "ORTH-001",
-    "name": "Orthopedics",
-    "description": "Focuses on injuries and diseases of the body's musculoskeletal system."
-  },
-  {
-    "id": "NEUR-001",
-    "name": "Neurology",
-    "description": "Branch of medicine dealing with the diagnosis and treatment of all categories of conditions involving the nervous system."
-  },
-  {
-    "id": "ONCO-001",
-    "name": "Oncology",
-    "description": "Involves the prevention, diagnosis, and treatment of cancer."
-  },
-  {
-    "id": "PED-002",
-    "name": "Pediatrics",
-    "description": "The specialty of medical science concerned with the physical, mental, and social health of children from birth to young adulthood."
-  },
-  {
-    "id": "GAST-002",
-    "name": "Gastroenterology",
-    "description": "Focuses on the digestive system and its disorders."
-  },
-  {
-    "id": "UROL-002",
-    "name": "Urology",
-    "description": "Focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs."
-  },
-  {
-    "id": "NEPH-003",
-    "name": "Nephrology",
-    "description": "Concerns the diagnosis and treatment of kidney diseases."
-  },
-  {
-    "id": "PULM-003",
-    "name": "Pulmonology",
-    "description": "A medical specialty that deals with diseases involving the respiratory tract."
-  },
-  {
-    "id": "DERM-004",
-    "name": "Dermatology",
-    "description": "The branch of medicine dealing with the skin, nails, hair and its diseases."
-  },
-  {
-    "id": "ENDO-004",
-    "name": "Endocrinology",
-    "description": "Focuses on the diagnosis and treatment of diseases related to hormones."
-  },
-  {
-    "id": "TRAN-005",
-    "name": "Transplant Services",
-    "description": "Specializes in the surgical transplantation of organs and tissues."
-  },
-  {
-    "id": "GP-001",
-    "name": "General Physician",
-    "description": "Provides primary care, diagnosing and treating a wide range of common illnesses and conditions."
-  }
->>>>>>> upstream/main
 ]
